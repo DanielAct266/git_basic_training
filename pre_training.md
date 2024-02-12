@@ -54,5 +54,3 @@ Congratulations, you have completed the setup prior to the trainig.
 For any questions, do not hesitate to reach out to the following email:
 
 dguerravaldivia@deloitte.com
-
-Deloitte ADMX
